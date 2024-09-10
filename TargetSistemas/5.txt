@@ -1,0 +1,2 @@
+Na primeira tentativa eu ligaria o primeiro interrupitor e deixaria ligado por um tempo, apos esse tempo eu desligaria ele e ligaria o proximo interruptor e iria na primeira sala.
+Caso a lampada estiver acessa vai ser a do segundo interruptor, caso estiver apagada verificarei se ela vai estar quente e se ela estiver quente quer dizer que ela correponde ao primeiro interruptor se ela estiver fria vai ser do terceiro interrupitor.
